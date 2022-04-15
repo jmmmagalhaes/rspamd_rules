@@ -13,6 +13,9 @@
 /.*@server.price-promotion.online$/i
 /.*@server.needsandwants.site$/i
 /.*@needsandwants.site$/i
+/.*@hambergiston.shop$/i
+/.*@mail.hambergiston.shop$/i
+/.*@incomunica.com$/i
 /.*@eu.buymarket.net$/i
 /.*@nicematin.com$/i
 /.*@eu.yougetnow.com$/i
