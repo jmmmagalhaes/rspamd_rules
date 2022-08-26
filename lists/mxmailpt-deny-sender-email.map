@@ -8,8 +8,15 @@
 /.*@hanvosafety.com$/i
 /.*@fpg.edu.br$/i
 /.*@sa.com$/i
+/.*@*.sa.com$/i
+/.*@auntoak.ru.com$/i
+/.*@rollsave.ru.com$/i
+/.*@chiprage.ru.com$/i
+/.*@bragleaf.ru.com$/i
+/.*@pillbin.ru.com$/i
 /.*@authedomain.pw$/i
 /.*@ru.com$/i
+/.*@*.ru.com$/i
 /.*@bombslot.sa.com$/i
 /.*@deepstop.ru.com$/i
 /.*@hillarmy.sa.com$/i
