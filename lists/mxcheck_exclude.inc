@@ -1,11 +1,1 @@
-wgfwd1.registrar-servers.com
-wgfwd2.registrar-servers.com
-campfirecollective.kinstamailservice.com
-tickets.icelandair.com
-mail.helcim.com
-mail.webbie.aty-group.com
-www.perfectcompliance.com
-fwd.regery.net
-auction.kenic.or.ke
-ecciewww4.amsnl.webair.com
-sg.campachim.com
+irn.mj.pt
