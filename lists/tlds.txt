@@ -1,9 +1,7 @@
 # TLDs known to have a high probability of being spammers
 
-.racing
-.faith
-.date
 /\.bid$/i
+/\.racing$/i
 /\.club$/i
 /\.date$/i
 /\.download$/i
