@@ -1,2 +1,3 @@
 irn.mj.pt
-sexshop69.pt
+inditex.com
+pt.inditex.com
