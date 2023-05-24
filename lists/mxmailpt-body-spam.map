@@ -1,3 +1,5 @@
+/(gateway\.ipfs\.io|cloudflare\-ipfs\.com|ipfs\.io|gateway\.pinata\.cloud|4everland\.io|ipfs\.yt|via0\.com|storry\.tv|dweb\.eu\.org|cf\-ipfs\.com|ipfs\.runfission\.com|ipfs\.eth\.aragon\.network|ipfs\.anonymize\.com|ipfs\.scalaproject\.io|ipfs\.fleek\.co|permaweb\.eu\.org|ipfs\.jpu\.jp|w3s\.link|nftstorage\.link|konubinix\.eu|dweb\.link|video\.oneloveipfs\.com|storjipfs\-gateway\.com|hardbin\.com)/i
+/(ipfs\.dweb\.link|\.ipfs\.)/i
 /Seu aplicativo app APProva mudou. Sera necessario activar novamente seu registo/i
 /Re:Laser engraving test for/i
 /Perda de peso segura: ate 10 a 15 kg de peso por mes/i
