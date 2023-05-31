@@ -1,6 +1,8 @@
 # TLDs known to have a high probability of being spammers
 
 /\.bid$/i
+/\.beauty$/i
+/\.autos$/i
 /\.bio$/i
 /\.racing$/i
 /\.club$/i
