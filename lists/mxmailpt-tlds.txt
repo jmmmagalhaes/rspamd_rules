@@ -11,6 +11,7 @@
 /\.faith$/i
 /\.fun$/i
 /\.host$/i
+/\.boats$/i
 /\.icu$/i
 /\.kim$/i
 /\.loan$/i
