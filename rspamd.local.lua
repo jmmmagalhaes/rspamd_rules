@@ -6,7 +6,7 @@ local rspamd_re = require "rspamd_regexp"
 local rspamd_hash = require "rspamd_cryptobox_hash"
 local rspamd_util = require "rspamd_util"
 
-local check_cw_dns = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+local check_cw_dns = ''._cw.xxxxxxxxxxxxxxxxxxxxxxxx.hbl.dq.spamhaus.net.''
 
 local function check_cw_callback ( task, re, lowercase, cryptovalue )
     local parts = task:get_text_parts()
